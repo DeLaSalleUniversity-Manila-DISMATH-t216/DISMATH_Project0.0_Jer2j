@@ -5,5 +5,5 @@
 ![ScreenShot](Screen1.png)
 
 ## Block Screenshots
-![ScreenShot](Welcome block.png)
+![ScreenShot](Welcome.block.png)
 ![ScreenShot](screen1block.png)
