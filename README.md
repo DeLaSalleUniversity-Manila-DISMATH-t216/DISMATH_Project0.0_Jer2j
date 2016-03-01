@@ -1,4 +1,4 @@
-# DISMATH_Project0.0_jer2j
+# DISMATH_Project0.0_Jer2j
 
 ## Designer Screenshots
 - Design for Welcome Screen
