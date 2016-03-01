@@ -9,7 +9,7 @@
 
 ## Block Screenshots
 - Block for Welcome Screen
-![ScreenShot](Welcome.block.png)
+![ScreenShot](welcome.block.png)
 
 - Block for Home Screen
 ![ScreenShot](screen1block.png)
