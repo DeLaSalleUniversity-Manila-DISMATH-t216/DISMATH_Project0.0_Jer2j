@@ -19,7 +19,7 @@
 ![ScreenShot](Phone1.jpg)
 
 - Home Screen
-![ScreenShot](Phone2.JPG)
+![ScreenShot](Phone2.JP)
 
 - Exit
-![ScreenShot](Phone3.JPG)
+![ScreenShot](Phone3.JP)
