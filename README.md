@@ -13,3 +13,13 @@
 
 - Block for Home Screen
 ![ScreenShot](screen1block.png)
+
+## Phone Screenshots
+- Welcome Screen
+![ScreenShot](Phone1.jpg)
+
+- Home Screen
+![ScreenShot](Phone2.jpg)
+
+- Exit
+![ScreenShot](Phone3.jpg)
